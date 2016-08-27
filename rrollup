@@ -15,6 +15,7 @@ cat \
   build/dialect/baseDialect.js \
   build/dialect/mySqlDialect.js \
   build/dialect/postgresDialect.js \
+  build/dialect/clickhouseDialect.js \
   build/datatypes/common.js \
   build/datatypes/attributeInfo.js \
   build/datatypes/range.js \
@@ -27,7 +28,7 @@ cat \
   build/external/druidExternal.js \
   build/external/sqlExternal.js \
   build/external/mySqlExternal.js \
-  build/external/postgresExternal.js \
+  build/external/clickhouseExternal.js \
   build/expressions/baseExpression.js \
   build/expressions/literalExpression.js \
   build/expressions/refExpression.js \
